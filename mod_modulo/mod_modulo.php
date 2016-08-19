@@ -9,7 +9,7 @@
 
 defined('_JEXEC') or die;
 
-// Se puede agregar un helper para el manejo de bases de datos, para este ejemplo lo
+// Se puede agregar un helper para el manejo de bases de datos, para este ejemplo lo omitire
 //require_once __DIR__ . '/helper.php';
 //$list = modModulo::getList($params);
 
