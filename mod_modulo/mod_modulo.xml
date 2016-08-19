@@ -13,6 +13,8 @@
 		<folder>css</folder>
 		<folder>js</folder>
 		<folder>tmpl</folder>
+		<filename module="mod_modulo">css/styles.css</filename>
+		<filename module="mod_modulo">js/scripts.js</filename>
 		<filename module="mod_modulo">mod_modulo.php</filename>
 	</files>
 	<config>
